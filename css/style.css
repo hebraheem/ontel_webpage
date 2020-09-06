@@ -426,7 +426,8 @@ input:hover {
         width: 94%;
         margin-left: 3%;
         margin-right: 3%;
-        margin-bottom: 50px;   
+        margin-bottom: 50px; 
+        margin-top: 50px;  
     }
     .cover {
         margin: 0px;
